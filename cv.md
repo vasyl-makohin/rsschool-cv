@@ -7,6 +7,7 @@
 - **E-mail:** mvm-platinum@i.ua
 - **GitHub:** [vasyl-makohin](адрес "https://github.com/vasyl-makohin")
 - **Telegram:** @nekrasav4uk
+- **Discord:** vasyl-makohin
 
 ---
 
@@ -25,7 +26,7 @@
 ## Skills and technologies
 
 - **Skills** - HTML, CSS, Javascript, jQuery, Bootstrap, Photoshop, Illustrator, Figma, Sketch, Git, Gitlab.
-- **Technologies** - React.js, Next.js, GraphQL, ES6, Less, Sass, Webpack, Gulp.
+- **Technologies** - React.js, Next.js, Vue.js, GraphQL, ES6, Less, Sass, Webpack, Gulp.
 
 ---
 
